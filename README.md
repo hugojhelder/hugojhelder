@@ -5,7 +5,7 @@
 - Would you like to have accesss to my private repositories, e.g. for recruitment? Please send me an email.
 
 - Private Repositories
-- A code plagiarism tool, developed in house for detecting plagiarism in code from students. This tool uses Spring Boot, Java, Scala, RabbitMQ, Docker, Azure and LMS/Github integrations to automatically scan software syntax and semantics for plagiarism against the web and databases. Utilize a modified Smith-Watermann algorithm. In use in several courses.
+- A code plagiarism tool, developed in house for detecting plagiarism in code from students. This tool uses Spring Boot, Java, Scala, RabbitMQ, Docker, Azure and LMS/Github integrations to automatically scan software syntax and semantics for plagiarism against the web and databases. Utilizes a modified Smith-Watermann algorithm. In use in several courses.
 - Code developed at previous employments, permission only for recruitment portofolio.
 
 <!---
