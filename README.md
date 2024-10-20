@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hugojhelder (Hugo)
-- 👀 I’m interested in Java programming /  Spring Boot / RabbitMQ/ Azure / React / Game Development
+- 👀 I’m interested in Java programming /  Spring Boot / RabbitMQ/ Azure / React / Docker / Game Development
 - 🌱 I’m currently learning about game programming concepts and shader programming
 - 📫 How to reach me: hugojhelder@hotmail.com
 - Would you like to have accesss to my private repositories, e.g. for recruitment? Please send me an email.
